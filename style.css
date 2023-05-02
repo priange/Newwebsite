@@ -1,0 +1,159 @@
+.navbar{
+    list-style: none;
+    display: flex;
+    /* justify-content: space-between; */
+}
+#topimage{
+    width:1000px;
+     height:400px;
+}
+#tow{
+    margin-top: -200px;
+}
+#those{
+    background-image: url(images/dress2.jpg);
+    background-repeat: initial;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+}
+
+.interesting{
+    margin-left: 600px;
+}
+#dressess{
+margin-left: 100px;
+}
+#tops{
+margin-top: -40px;
+}
+#image1{
+    width:250px;
+/* margin-top: 5%; */
+}
+.firstimages{
+    display: flex;
+}
+#image2{
+    width: 250px;
+    height: 400px;
+}
+#image3{
+    width: 250px;
+    height: 400px; 
+    /* margin-left: 70px; */
+}
+#image4{
+    width: 250px;
+    height: 400px;
+    /* margin-left: 30px; */
+}
+#image6{
+    /* width:400px; */
+    margin-left: 15px;
+    margin-top: 100px;
+    width: 450px;
+    height: 680px;
+}
+#image7{
+    width: 600px;
+    margin-left:20px;
+    margin-top: 100px;
+}
+#image8{
+    width: 600px;
+    margin-top: 460px;
+    margin-left: -600px;
+    height:300px
+}
+.thirdset{
+    display: flex;
+}
+.many{
+    display: flex;
+}
+#new{
+    margin-top: -150px;
+    margin-left: 30px;
+    color: white;
+}
+#these{
+    margin-top: -220px;
+    margin-left: 70px;
+    color: white;
+}
+#all{
+    margin-top: -160px;
+    margin-left: -590px;
+    color: white;
+}
+#show1{
+    /* border-radius: 10px; */
+    background-color: rgb(228, 62, 90);
+    color:white;
+    height: 35px;
+    /* border-radius: 150px; */
+}
+#show2{
+    background-color:  rgb(228, 62, 90);
+    color:white;
+    height: 35px;
+}
+#show3{
+    background-color: rgb(228, 62, 90);
+    color:white;
+    height: 35px;
+}
+.footer{
+    /* margin-left: 200px; */
+    margin-top: 100px;
+    margin-left: 50px;
+    display: flex;
+
+}
+#shop{
+margin-left: 100px;
+}
+#dresses{
+    margin-left: 100px;
+}
+#about{
+    margin-left: 100px;
+}
+#FAQ{
+    margin-left: 100px;
+}
+#view{
+    border-style: solid 5px;
+    background-color:  rgb(228, 62, 90);
+    color:white;
+    height: 45px;
+    margin-left: 400px;
+    
+}
+#allabout{
+    margin-left: 50px;
+}
+#details{
+    margin-left: 50px;
+}
+#news{
+    margin-left: 50px;
+}
+.secondlast{
+    margin-top: 60px;
+    margin-left: 500px;
+}
+.body{
+    background-color: rgb(212, 200, 200);
+}
+#lastlady{
+    width: 1250px;
+    height: 600px;
+}
+.connections{
+display: flex;
+}
+.paymentmode{
+justify-content: space-between;
+}
